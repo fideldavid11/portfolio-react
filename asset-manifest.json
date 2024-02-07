@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.dae25fc2.css",
+    "main.js": "/portfolio-react/static/js/main.5dfea051.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio-react/static/js/787.7da95b79.chunk.js",
+    "static/media/BackgroundVideo.mp4": "/portfolio-react/static/media/BackgroundVideo.fcd4c044e8a35dae8425.mp4",
+    "static/media/machine_learning.png": "/portfolio-react/static/media/machine_learning.4b62585fab778a411184.png",
+    "static/media/icon_backend.png": "/portfolio-react/static/media/icon_backend.cc1a2d70364c160816a2.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.dae25fc2.css.map": "/portfolio-react/static/css/main.dae25fc2.css.map",
+    "main.5dfea051.js.map": "/portfolio-react/static/js/main.5dfea051.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio-react/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae25fc2.css",
+    "static/js/main.5dfea051.js"
+  ]
+}
